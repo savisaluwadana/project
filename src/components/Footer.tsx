@@ -29,7 +29,7 @@ export const Footer = () => {
               <div className="p-2 bg-white/10 backdrop-blur-md rounded-lg">
                 <Leaf className="w-6 h-6 text-green-400" />
               </div>
-              <span className="text-xl font-bold text-black">Exsimslanka</span>
+              <span className="text-xl font-bold text-black">A S Exim Lanka</span>
             </div>
             <p className="text-black text-sm">
               Crafting exceptional Ceylon tea experiences since 1875. Every cup tells our story of quality and tradition.
@@ -95,7 +95,7 @@ export const Footer = () => {
         <div className="border-t border-gray-800 pt-6 mt-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-2">
             <p className="text-black text-xs">
-              &copy; {new Date().getFullYear()} Exsimslanka. All rights reserved.
+              &copy; {new Date().getFullYear()} A S Exim lanka (pvt) Ltd. All rights reserved.
             </p>
 
             <div className="flex gap-4">

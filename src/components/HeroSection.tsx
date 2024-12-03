@@ -17,14 +17,14 @@ export const HeroSection = () => {
         <div className="backdrop-blur-sm bg-white/10 p-8 rounded-2xl border border-white/20 shadow-2xl">
             <div className="flex items-center gap-3 mb-6">
             <Leaf className="w-12 h-12 text-green-600" />
-            <h1 className="text-5xl md:text-7xl font-bold tracking-tight text-white">Exsimslanka</h1>
+            <h1 className="text-5xl md:text-7xl font-bold tracking-tight text-white">A S Exim Lanka</h1>
             </div>
           <p className="text-xl md:text-3xl mb-8 text-center max-w-2xl font-light">
             Experience the Essence of Ceylon Tea
           </p>
           <a href="/products">
   <button className="bg-white/20 backdrop-blur-sm hover:bg-white/30 text-white px-10 py-4 rounded-full font-medium transition-all duration-300 border border-white/30 hover:scale-105">
-    Explore Our Teas
+    Explore Our Tea
   </button>
 </a>
         </div>

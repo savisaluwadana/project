@@ -24,7 +24,7 @@ export const Navigation = () => {
         <div className="flex items-center justify-between h-20">
           <Link to="/" className="flex items-center gap-2">
             <Leaf className={`w-6 h-6 ${isScrolled ? 'text-green-600' : 'text-white'}`} />
-            <span className={`text-xl font-bold ${isScrolled ? 'text-gray-900' : 'text-white'}`}>Exsimslanka</span>
+            <span className={`text-xl font-bold ${isScrolled ? 'text-gray-900' : 'text-white'}`}>A S Exim Lanka</span>
           </Link>
           
           <div className="hidden md:flex items-center gap-8">
